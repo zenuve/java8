@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Work/Apps/jars/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Apps/jars/commons-collections4-4.3.jar" sourcepath="C:/Users/ACHAUR~1/AppData/Local/Temp/.org.sf.feeling.decompiler1557154625414/source/commons-collections4-4.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Apps/jars/hamcrest-all-1.3.jar" sourcepath="C:/Users/ACHAUR~1/AppData/Local/Temp/.org.sf.feeling.decompiler1557154625414/source/hamcrest-all-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/achaurasia/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar" sourcepath="C:/Users/achaurasia/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.fasterxml.jackson.core"/>
+			<attribute name="maven.artifactId" value="jackson-databind"/>
+			<attribute name="maven.version" value="2.9.8"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/achaurasia/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar" sourcepath="C:/Users/achaurasia/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.fasterxml.jackson.core"/>
+			<attribute name="maven.artifactId" value="jackson-core"/>
+			<attribute name="maven.version" value="2.9.8"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Work/Apps/jars/jackson-annotations-2.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
